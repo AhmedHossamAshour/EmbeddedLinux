@@ -1,39 +1,9 @@
 #!/usr/bin/python3
 
-name:str = "Ahmed Hossam"
-print(name)
-print(name.upper())
-
-
-for i in range(2,6):
-    print(i)
-
-
-
+Numberslist = [5, 6, 8, 7, 4, 1, 4, 5, 5, 4, 2]
+counter1 = Numberslist.count(4)
+print("count is " + str(counter1))
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# this is shebang 
-
-# this is a comment
-'''
-also a comment 
-ttt
-'''
-print("done")
 
